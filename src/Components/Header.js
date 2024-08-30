@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Parallax
       blur={0}
-      bgImage={'https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg'} // Path to your background image
+      bgImage={'https://s3-alpha-sig.figma.com/img/df6d/0355/7aa499c9d84b38e54234229cea8660ce?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nhBKdSkl1sz23QwKerm6Ada01Rlj86QO9xfRAE90TqpQ0s6K-FE1vc8WwDn3SlNkl1fpKFCzIH4oGwCRqBua9DCCd4yAzQ1Gl4i-HZwnKHClIUAFPRSpBDcUc-HSVAmFhHdUyI2W8GdG4c8YtxlFphw8dlTyO4rIIb2VQvkcFfw1TLrQOE3tbN2Ta6Hn7jLLP3ZTpRpjvE9ZUiJVwMbuCfyMpG82agXPzrCk5AxRMoTkl4EL2MO4ibeAoA2h7LvAHZj3-jAcgkyqeYCehqwLvsCKUyoWfjJ8I-LkKH8~ls3-R97NJw7UESwpzW0xy0j-G4zrA0cdOszHU5Xc-fxcxA__'} // Path to your background image
       bgImageAlt="background"
       strength={900}
       className="parallax-container">

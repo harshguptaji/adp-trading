@@ -12,7 +12,7 @@ const Distribution = () => {
     <>
         <Parallax
             blur={0}
-            bgImage={'https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg'} // Path to your background image
+            bgImage={'https://s3-alpha-sig.figma.com/img/7a08/4271/d600b6febad07f8e6cc9979aee7835ff?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KtHrwn67KBT1mpHPupC8ndIAhYkwPpJs9RE69~sZUbDOq6FpxDZqz5-VLXA6qQOuD~J1IVWt5CcDoq7AXQwEINLwMMlYxlAOkexagt83HPF4z2T1GyVacYCciT~kPbMMe~4sRuZX4aUflHcXmnQrM53-5FEF8hKHqW25oqtxLeZiMrV3oeZ-VchOHAwjQNlL096mKLEkA2242APPYUN9Hqijq3Wz~3ZcT~QCiyR54smxM~ga3kLLkERQF1VtBHyOBHTtw8Wc8SO7CgmA6lPlRJgCf0kP9WvIazznucT77hu3K3X1pWu5kok0AS0AOceXKVpKJ8lSHQ9vMmTuYLN3uA__'} // Path to your background image
             bgImageAlt="background"
             strength={900}
             className="parallax-container">
