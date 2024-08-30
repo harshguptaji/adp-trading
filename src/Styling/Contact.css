@@ -1,0 +1,108 @@
+.main-contact{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    margin-top: 8vw;
+    border: 1px solid red;
+    background-image: url(../Assets/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-contact-1{
+    width: 32vw;
+    padding: 3vw 2vw 2vw 2vw;
+    margin-top: 2vw;
+}
+
+.main-contact-1-title{
+    font-family: Inter;
+    font-size: 2.5vw;
+    font-weight: 600;
+    color: white;
+}
+
+.main-contact-1-para{
+    font-family: Roboto;
+    font-size: 1.1vw;
+    font-weight: 500;
+    color: white;
+    margin-top: 2vw;
+    text-align: justify;
+}
+
+.main-contact-btn{
+    width: 10vw;
+    font-family: Poppins;
+    color: #131313;
+    font-size: 1.1vw;
+    padding: 1vw 0.4vw 1vw 0.4vw;
+    border-radius: 1vw;
+    border: none;
+    margin-top: 2vw;
+    cursor: pointer;
+}
+
+.main-contact-2{
+    width: 30vw;
+    margin-right: 0.5vw;
+    background-color: rgba(255,255,255,0.2);
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+    border-radius: 1vw;
+}
+
+.main-contact-2-title{
+    text-align: center;
+    font-family: Inter;
+    font-size: 1.5vw;
+    color: white;
+    margin-top: 2vw;
+}
+
+.main-contact-2-para{
+    font-family: Inter;
+    color: white;
+    text-align: center;
+    margin-top: 1vw;
+}
+
+.contact-form{
+    width: 25vw;
+    margin: auto;
+    margin-top: 1.5vw;
+}
+
+label{
+    font-family: Roboto;
+    font-size: 1.05vw;
+    color: white;
+   
+}
+
+.contact-inputs{
+    border: none;
+    padding-left: 2vw;
+    font-family: Roboto;
+    font-size: 0.8vw;
+    color: #8897AD;
+    padding-top: 0.7vw;
+    padding-bottom: 0.7vw;
+    border-radius: 0.5vw;
+    width: 25vw;
+    margin-bottom: 0.6vw;
+    margin-top: 0.2vw;
+}
+
+.contact-btn{
+    background: #3B3D3C;
+    font-family: Poppins;
+    font-size: 1.2vw;
+    color: white;
+    border: none;width: 25vw;
+    padding-top: 0.8vw;
+    padding-bottom: 0.8vw;
+    border-radius: 1vw;
+}
