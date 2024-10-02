@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adp-trading/static/css/main.d5cc36a8.css",
+    "main.js": "/adp-trading/static/js/main.0b14820d.js",
+    "static/js/453.8ab44547.chunk.js": "/adp-trading/static/js/453.8ab44547.chunk.js",
+    "static/media/background.jpg": "/adp-trading/static/media/background.3dc653463330e1fc6a80.jpg",
+    "static/media/shipping.png": "/adp-trading/static/media/shipping.4dd4a738019d8a675650.png",
+    "static/media/ship.png": "/adp-trading/static/media/ship.ddf408eebacbe7dbf272.png",
+    "static/media/tech.png": "/adp-trading/static/media/tech.711f77a411c3c86a1af8.png",
+    "static/media/container.png": "/adp-trading/static/media/container.88dc6a35966e696008a6.png",
+    "static/media/mob-ship.png": "/adp-trading/static/media/mob-ship.548411d41856e4c128dc.png",
+    "static/media/search.png": "/adp-trading/static/media/search.48625617a1f89d1ae658.png",
+    "index.html": "/adp-trading/index.html",
+    "main.d5cc36a8.css.map": "/adp-trading/static/css/main.d5cc36a8.css.map",
+    "main.0b14820d.js.map": "/adp-trading/static/js/main.0b14820d.js.map",
+    "453.8ab44547.chunk.js.map": "/adp-trading/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5cc36a8.css",
+    "static/js/main.0b14820d.js"
+  ]
+}
