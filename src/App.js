@@ -1,5 +1,8 @@
 
 import './App.css';
+import Reach from './Components/Reach';
+import Choose from './Components/Choose';
+import Work from './Components/Work';
 import About from './Components/About';
 import Application from './Components/Application';
 import Blog from './Components/Blog';
@@ -21,8 +24,11 @@ function App() {
     <Navbar/>
     <Header/>
     <About/>
+    <Work/>
     <Distributors/>
     <Finder/>
+    <Choose/>
+    <Reach/>
     <Application/>
     <Company/>
     <Distribution/>

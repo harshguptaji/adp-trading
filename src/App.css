@@ -3,3 +3,20 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+@keyframes appear {
+  from{
+    opacity: 0.9;
+    transform: translateX(-100px);
+  }
+  to{
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+
+.key-main{
+  animation: appear linear;
+  animation-timeline: view();
+  animation-range: entry 0% cover 40%;
+}

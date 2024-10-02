@@ -30,7 +30,7 @@ const Footer = () => {
                         <div className='footer-no'>(+971) 555-55812</div>
                     </div>
                     <div>
-                        <img src={img1} alt="img1" />
+                        <img className='arr-img' src={img1} alt="img1" />
                     </div>
                 </div>
 
@@ -51,7 +51,7 @@ const Footer = () => {
                 </div>
 
             </div>
-            <div>
+            <div className='marg-top'>
                 <h5 className='footer-11-title'>Our Company</h5>
                 <div className='flex'>
                     <img src={img4} alt="img4" />
@@ -78,7 +78,7 @@ const Footer = () => {
                     <div className='hotline'>Contact</div>
                 </div>
             </div>
-            <div>
+            <div className='marg-top'>
                 <h5 className='footer-11-title'>Newsletter</h5>
                 <div className='hotline'>Sign up to receive the latest articles</div>
                 <div>
@@ -95,23 +95,23 @@ const Footer = () => {
                 <div className='flex-2-1-title'>InfraNew.com</div>
             </div>
             <div className='flex-2-2'>
-                <h5>Home</h5>
-                <h5>Page</h5>
-                <h5>Blog</h5>
-                <h5>Contact</h5>
+                <h5 className='footer-link'>Home</h5>
+                <h5 className='footer-link'>Page</h5>
+                <h5 className='footer-link'>Blog</h5>
+                <h5 className='footer-link'>Contact</h5>
             </div>
             <div className='flex-2-3'>
                 <div>
-                    <a href="#"><img src={i1} alt="i1" /></a>
+                    <a href="#"><img className='social-img' src={i1} alt="i1" /></a>
                 </div>
                 <div>
-                    <a href="#"><img src={i2} alt="i2" /></a>
+                    <a href="#"><img className='social-img' src={i2} alt="i2" /></a>
                 </div>
                 <div>
-                    <a href="#"><img src={i3} alt="i3" /></a>
+                    <a href="#"><img className='social-img' src={i3} alt="i3" /></a>
                 </div>
                 <div>
-                    <a href="#"><img src={i4} alt="i4" /></a>
+                    <a href="#"><img className='social-img' src={i4} alt="i4" /></a>
                 </div>
             </div>
         </section>

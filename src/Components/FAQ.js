@@ -19,7 +19,7 @@ const FAQ = () => {
             <section className='main-faq-1'>
                 <div className='faq-1'>
                     <div className='faq-1-1'></div>
-                    <div className='faq-1-2'>What is a Payment Gateway</div>
+                    <div className='faq-1-2'>What is a Payment Gateway</div> 
                     <div>
                         <img className='faq-1-3' onClick={() => setToggle(!toggle)} src={img1} alt="img1" />
                     </div>

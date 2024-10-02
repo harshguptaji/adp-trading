@@ -23,7 +23,7 @@ const Application = () => {
                     <div className='flex-div-1-title'>
                         Glass Chemicals
                     </div>
-                    <div className='flex-div-1-para'>
+                    <div className='flex-div-1-para'> 
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos vero neque debitis ipsum sint excepturi quam voluptates quae rerum inventore.
                     </div>
               </div>

@@ -5,7 +5,7 @@ const Key = () => {
     <>
         <main className='key-main'>
             <div className='key-main-title'>
-                9 Key Tenets of ADP Trading Company
+                9 Key Tenets of ADP Trading Company 
             </div>
             <div className='key-main-para'>
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.

@@ -12,21 +12,21 @@ const Distribution = () => {
     <>
         <Parallax
             blur={0}
-            bgImage={'https://s3-alpha-sig.figma.com/img/7a08/4271/d600b6febad07f8e6cc9979aee7835ff?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KtHrwn67KBT1mpHPupC8ndIAhYkwPpJs9RE69~sZUbDOq6FpxDZqz5-VLXA6qQOuD~J1IVWt5CcDoq7AXQwEINLwMMlYxlAOkexagt83HPF4z2T1GyVacYCciT~kPbMMe~4sRuZX4aUflHcXmnQrM53-5FEF8hKHqW25oqtxLeZiMrV3oeZ-VchOHAwjQNlL096mKLEkA2242APPYUN9Hqijq3Wz~3ZcT~QCiyR54smxM~ga3kLLkERQF1VtBHyOBHTtw8Wc8SO7CgmA6lPlRJgCf0kP9WvIazznucT77hu3K3X1pWu5kok0AS0AOceXKVpKJ8lSHQ9vMmTuYLN3uA__'} // Path to your background image
+            bgImage={'https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg'} // Path to your background image
             bgImageAlt="background"
             strength={900}
-            className="parallax-container">
-                <div className="content">
-                        <div className='header-title'>
+            className="distribution1--parallax-container">
+                <div className="distribution1--content">
+                        <div className='distribution1--title'>
                             Distribution Of Products Overseas
                         </div>
 
-                        <div className='header-para'>
+                        <div className='distribution1--para'>
                              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
 
-                        <div className='header-btn'>
-                            <button className='header-btn-enquiry'>Discover More</button>
+                        <div className='distribution1--btn'>
+                            <button className='distribution1--btn-enquiry'>Discover More</button>
                         </div>
                         
 
@@ -88,4 +88,4 @@ const Distribution = () => {
   )
 }
 
-export default Distribution
+export default Distribution;

@@ -15,16 +15,26 @@ const Finder = () => {
 
             <section className='find-section'>
                 <div className='find-section-1'>
-                    <div className='find-section-1-1'></div>
-                    <div className='find-section-1-1'></div>
-                    <div className='find-section-1-1'></div>
-                    <div className='find-section-1-1'></div>
+                    <div className='find-section-11'>
+                        <div className='find-section-1-1'></div>
+                        <div className='find-section-1-1'></div>
+                    </div>
+                    <div className='find-section-12'>
+                        <div className='find-section-1-1'></div>
+                        <div className='find-section-1-1'></div>
+                    </div>
+                    
+                    
                 </div>
                 <div className='find-section-2'>
-                    <div className='find-section-1-1'></div>
-                    <div className='find-section-1-1'></div>
-                    <div className='find-section-1-1'></div>
-                    <div className='find-section-1-1'></div>
+                    <div className='find-section-21'>
+                        <div className='find-section-1-1'></div>
+                        <div className='find-section-1-1'></div>
+                    </div>
+                    <div className='find-section-22'>
+                        <div className='find-section-1-1'></div>
+                        <div className='find-section-1-1'></div>
+                    </div>
                 </div>
             </section>
         </main>
